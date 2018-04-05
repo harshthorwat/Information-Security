@@ -4,9 +4,9 @@ For Running in Linux Environment Use following Steps.
 
 2.For Encryprion Type command
 
-  compile using:        i)gcc -o enc CeaserCipher.c
+  compile using:        i) gcc -o enc CeaserCipher.c
   
-  Run Using:            ii)./enc
+  Run Using:            ii) ./enc
   
     Enter a plain text and key (Key is integer from 1 to 9).
     
