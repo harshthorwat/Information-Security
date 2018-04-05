@@ -33,3 +33,5 @@ Open Terminal in the directory where code is present.
 7. Give key same as used in Encryption and cipherText as input.
 
 8. You will get plainText as output.
+
+9. 'Q' is used as substitution character in code so 'Q' can appear at the end of decrypted message.
