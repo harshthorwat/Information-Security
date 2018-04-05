@@ -1,14 +1,16 @@
 For Running this program in Linux use following instructions.
 
+Open Terminal in the directory where code is present.
+
 1. For Encryption: 
   
    compile using:
    
-     gcc -o enc play.c
+        gcc -o enc play.c
    
    run using:
    
-    ./enc
+        ./enc
    
 2. Give a text Key.
 
@@ -22,10 +24,11 @@ For Running this program in Linux use following instructions.
   
    Compile using:
     
-     gcc -o dec playDec.c
+        gcc -o dec playDec.c
      
     run using:
-      ./dec
+      
+        ./dec
     
 7. Give key same as used in Encryption and cipherText as input.
 
