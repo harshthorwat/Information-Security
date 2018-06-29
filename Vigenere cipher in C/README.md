@@ -1,3 +1,5 @@
+For Running in Windows use Code Bolcks IDE
+
 For Running in Linux use following instructions 
 
 1. Open Terminal in folder containing program files.
